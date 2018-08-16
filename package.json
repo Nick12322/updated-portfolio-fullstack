@@ -1,0 +1,24 @@
+{
+  "name": "updated-portfolio-fullstack",
+  "version": "1.0.0",
+  "description": "Updated, prettier portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nick12322/updated-portfolio-fullstack.git"
+  },
+  "author": "Nicholas Woodward",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nick12322/updated-portfolio-fullstack/issues"
+  },
+  "homepage": "https://github.com/Nick12322/updated-portfolio-fullstack#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
